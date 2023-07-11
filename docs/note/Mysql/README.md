@@ -1,8 +1,7 @@
 ---
-icon: note
-title: 学习笔记
+icon: mysql
+title: Mysql
 index: false
 article: false
-footer: ""
 ---
 <AutoCatalog/>

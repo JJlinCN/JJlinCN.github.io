@@ -1,8 +1,7 @@
 ---
-icon: note
-title: 学习笔记
+title: 前端
+icon: type
 index: false
 article: false
-footer: ""
 ---
 <AutoCatalog/>

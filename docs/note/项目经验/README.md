@@ -1,8 +1,7 @@
 ---
-icon: note
-title: 学习笔记
+icon: emmet
+title: 项目经验
 index: false
 article: false
-footer: ""
 ---
 <AutoCatalog/>

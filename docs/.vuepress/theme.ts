@@ -12,11 +12,11 @@ export default hopeTheme({
     email: "jjlincnpyt@qq.com"
   },
 
-  favicon: "book_logo.png",
+  favicon: "/assets/site_image/book_logo.png",
 
   iconAssets: "iconfont",
 
-  logo: "/logo.jpg",
+  logo: "/assets/site_image/logo.jpg",
 
   repo: "JJlinCN/JJlinCN.github.io",
 
@@ -34,7 +34,7 @@ export default hopeTheme({
       blog:{
         sidebarDisplay:"mobile",//博客侧边栏显示
         articlePerPage:10,//默认每页展示文章数量为10
-        avatar:"/logo.svg",//博主头像
+        avatar:"/assets/site_image/logo.jpg",//博主头像
         name:"JJlinCN",//博主姓名
         roundAvatar:true,//头像圆形裁剪配置
         description:"纸上得来终觉浅，绝知此事要躬行",//座右铭
