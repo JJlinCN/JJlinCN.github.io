@@ -1,6 +1,6 @@
 ---
-icon: folder
-title: 收藏夹
+icon: box
+title: 其他
 index: false
 article: false
 footer: ""

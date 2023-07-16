@@ -1,8 +1,9 @@
 ---
-icon: stack
-title: 日常生活
+icon: proposal
+title: 协议
 index: false
 article: false
 footer: ""
 ---
 <AutoCatalog/>
+

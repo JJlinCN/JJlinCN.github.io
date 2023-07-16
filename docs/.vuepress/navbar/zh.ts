@@ -18,12 +18,12 @@ export const zhNavbar = navbar([//navbar函数包裹，为了方便用户在编�
   },
   {
     text: "日常生活",
-    icon: "workingDirectory",
+    icon: "stack",
     link: "/life/"
   },
   {
-    text: "收藏夹",
-    icon: "folder",
-    link: "/docs_star/"
+    text: "其他",
+    icon: "box",
+    link: "/others/"
   }
 ]);
