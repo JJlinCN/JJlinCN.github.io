@@ -4,8 +4,8 @@ import { zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
   //全局共用配置------------------------------------------------------------
-  hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
-
+  hostname: "https://JJlinCN.github.io",
+  
   author: {
     name: "JJlinCN",
     url: "https://JJlinCN.github.io",
@@ -87,6 +87,7 @@ export default hopeTheme({
       attrs: true,
       chart: true,
       codetabs: true,
+      card:true,
       demo: true,
       echarts: true,
       figure: true,
@@ -186,4 +187,4 @@ export default hopeTheme({
     // },
   },
 
-});
+},{custom:true});

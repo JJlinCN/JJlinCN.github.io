@@ -1,9 +1,7 @@
 ---
-icon: proposal
-title: 协议
+icon: study
+title: 效率探讨
 index: false
-dir:
-    order: 2
 article: false
 footer: ""
 ---

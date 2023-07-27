@@ -15,7 +15,7 @@ actions:
       link: "/blog/"
 
     - text: 效率探讨🧠
-      link: ""
+      link: "/life/效率探讨/"
 
 footer: ""
 ---
