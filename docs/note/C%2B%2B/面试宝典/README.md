@@ -1,8 +1,6 @@
 ---
-title: 前端
-icon: type
-dir:
-    order: 2
+icon: repo
+title: 面试宝典
 index: false
 article: false
 ---

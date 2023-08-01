@@ -1,8 +1,6 @@
 ---
-title: 前端
-icon: type
-dir:
-    order: 2
+icon: geometry
+title: 算法刷题
 index: false
 article: false
 ---
