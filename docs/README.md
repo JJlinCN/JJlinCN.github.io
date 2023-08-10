@@ -20,7 +20,7 @@ actions:
 footer: ""
 ---
 
-:::tip 提示
+::: tip 提示
 由于在准备秋招，本站目前不会花太多心思更新，最新更新会记录在作者语雀主页上观看:[JJlinCN的语雀主页](https://www.yuque.com/jjlincn)
 后期等找到offer了，闲暇之余可能会系统的整理一下这个vuepress博客吧。
 > 作者JJlinCN 于 2023/8/10 晚 23:15记
