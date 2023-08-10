@@ -1,6 +1,6 @@
 ---
 icon: repo
-title: 面试宝典
+title: 面经
 index: false
 article: false
 ---
